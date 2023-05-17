@@ -9,9 +9,15 @@ Bloatware was removed (almost all bloatware)
 
 # APPS I KEPT IN THE ISO
 Onedrive (sadly)
+
 MS Store
+
 MS Paint
+
 Photos
+
 Notepad
+
 Media Player
+
 CMD And PowerShell (ofc)
